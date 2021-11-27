@@ -10,3 +10,7 @@
 switch
 defer
 група очікування
+# Запуск
+В термніналі прописуємо "go run main.go" та очікуємо виповнення програми
+#Результат
+![image](https://user-images.githubusercontent.com/61800703/143720531-13aef82e-611e-4015-b228-f6dd3da8acf8.png)
